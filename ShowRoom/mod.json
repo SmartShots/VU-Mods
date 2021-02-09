@@ -1,9 +1,0 @@
-{
-	"Name": "ShowRoom",
-	"Authors": ["Janssent"],
-	"Description": "Rotate and zoom in on the soldier and vehicles in the customization screens",
-	"URL": "",
-	"Version": "0",
-	"HasWebUI": true,
-	"HasVeniceEXT": true
-}
