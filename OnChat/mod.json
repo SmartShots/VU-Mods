@@ -1,9 +1,0 @@
-{
-	"Name": "OnChat",
-	"Authors": ["Janssent"],
-	"Description": "Do things from the chat",
-	"URL": "",
-	"Version": "0",
-	"HasWebUI": false,
-	"HasVeniceEXT": true
-}
