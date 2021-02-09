@@ -1,9 +1,0 @@
-{
-	"Name": "ScoutTowUnlock",
-	"Authors": ["Janssent"],
-	"Description": "Adds an ATGM rocket unlock and weapon to the scout helicopters",
-	"URL": "",
-	"Version": "0",
-	"HasWebUI": false,
-	"HasVeniceEXT": true
-}
