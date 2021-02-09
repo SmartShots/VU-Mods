@@ -1,9 +1,0 @@
-{
-	"Name": "VehicleDamageTweak",
-	"Authors": ["Janssent"],
-	"Description": "Adjust MaterialGrid to change how materials interact",
-	"URL": "",
-	"Version": "0",
-	"HasWebUI": false,
-	"HasVeniceEXT": true
-}
