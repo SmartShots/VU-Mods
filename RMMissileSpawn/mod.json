@@ -1,9 +1,0 @@
-{
-	"Name": "RMMissileSpawn",
-	"Authors": ["Janssent"],
-	"Description": "POC mod showing how to clone and spawn a mortar missile.",
-	"URL": "",
-	"Version": "0",
-	"HasWebUI": false,
-	"HasVeniceEXT": true
-}
