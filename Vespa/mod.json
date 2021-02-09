@@ -1,9 +1,0 @@
-{
-	"Name": "Vespa",
-	"Authors": ["Janssent"],
-	"Description": "vroom vroom",
-	"URL": "",
-	"Version": "0",
-	"HasWebUI": false,
-	"HasVeniceEXT": true
-}
