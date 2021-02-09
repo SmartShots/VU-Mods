@@ -1,7 +1,7 @@
 {
-	"Name": "UniversalWeaponCamos",
-	"Authors": ["Janssent"],
-	"Description": "Adds camos with the textures from the config file to each primary weapon",
+	"Name": "VU Universal Camos",
+	"Authors": ["SmartShots"],
+	"Description": "Adds camos",
 	"URL": "",
 	"Version": "0",
 	"HasWebUI": false,
