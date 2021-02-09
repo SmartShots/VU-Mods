@@ -1,9 +1,0 @@
-{
-	"Name": "AirStrike",
-	"Authors": ["Janssent"],
-	"Description": "POC artillery mod, including overly complex target crosshair.",
-	"URL": "",
-	"Version": "0",
-	"HasWebUI": false,
-	"HasVeniceEXT": true
-}
