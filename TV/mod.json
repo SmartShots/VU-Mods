@@ -1,9 +1,0 @@
-{
-	"Name": "TV",
-	"Authors": ["Janssent"],
-	"Description": "Nimbus 5000",
-	"URL": "",
-	"Version": "0",
-	"HasWebUI": false,
-	"HasVeniceEXT": true
-}
